@@ -1,22 +1,31 @@
 body {
     background-color: #f5f0e6;
-    color: #DCAE96;
+    color: #C28285;
     font-family: "Courier New", Courier, monospace;
+    font-size: x-large;
 }
 
 .content {
     background-color: #f5f0e6;
     text-align: center;
-    padding-left: 72px;
-    padding-right: 72px;
+    padding-left: 48px;
+    padding-right: 48px;
 }
 
 .custom_navbar {
     background-color: #F7E7CE;
 }
 
+.large_font{
+    font-size: large;
+}
+
+.medium_font{
+    font-size: medium;
+}
+
 .outline {
-    background-color: #DCAE96;
+    background-color: #C28285;
     margin-bottom: 8px;
     margin-top: 8px;
     padding-bottom: 8px;
@@ -29,4 +38,8 @@ body {
     background-image: url('our_picture.jpg');
     background-repeat: no-repeat;
     background-size: auto;
+}
+
+.small_font{
+    font-size: small;
 }
