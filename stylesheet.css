@@ -2,32 +2,38 @@ body {
     background-color: #f5f0e6;
     color: #C28285;
     font-family: "Courier New", Courier, monospace;
-    font-size: x-large;
 }
 
 .content {
     background-color: #f5f0e6;
-    text-align: center;
+    font-size: x-large;
     padding-left: 48px;
     padding-right: 48px;
+    text-align: center;
 }
 
 .custom_navbar {
     background-color: #F7E7CE;
 }
 
-.large_font{
+.large_font {
     font-size: large;
 }
 
-.medium_font{
+.medium_font {
     font-size: medium;
 }
 
-.outline {
+.outer_outline {
+    background-color: #f5f0e6;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+}
+
+.inner_outline {
     background-color: #C28285;
-    margin-bottom: 8px;
-    margin-top: 8px;
     padding-bottom: 8px;
     padding-left: 8px;
     padding-right: 8px;
@@ -40,6 +46,6 @@ body {
     background-size: auto;
 }
 
-.small_font{
+.small_font {
     font-size: small;
 }
