@@ -50,10 +50,22 @@ body {
     font-size: small;
 }
 
+.hyperlink {
+    color: #C28285;
+}
+
 .topa_picture {
 	margin-bottom: 32px;
 }
 
+.topa_meeting_descriptions {
+    text-align: left;
+}
+
 .wedding_party_picture {
     margin-bottom: 32px;
+}
+
+.wedding_bios {
+    text-align: left;
 }
