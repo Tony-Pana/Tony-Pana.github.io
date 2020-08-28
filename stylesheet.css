@@ -69,3 +69,8 @@ body {
 .wedding_bios {
     text-align: left;
 }
+
+.clear_button {
+    background-color: #f5f0e6;
+    border: none;
+}
