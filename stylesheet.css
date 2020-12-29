@@ -64,6 +64,7 @@ body {
 
 .wedding_party_picture {
     margin-bottom: 32px;
+	object-fit: contain;
 }
 
 .wedding_bios {
