@@ -55,6 +55,7 @@ body {
 }
 
 .topa_picture {
+    border: 5px solid #C28285;
 	margin-bottom: 32px;
 }
 
@@ -63,6 +64,8 @@ body {
 }
 
 .wedding_party_picture {
+    border: 5px solid #C28285;
+    background: #C28285;
     margin-bottom: 32px;
 	object-fit: contain;
 }
