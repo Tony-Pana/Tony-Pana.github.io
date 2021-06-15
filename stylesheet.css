@@ -55,10 +55,52 @@ body {
     padding-top: 8px;
 }
 
-.picture {
-    background-image: url('our_picture.jpg');
+.index_picture {
+    background-image: url("topa_back_hug.jpg");
+    background-position: center;
+}
+
+.baby_picture {
+    background-image: url("topa_baby.jpg");
+    background-position: 42%;
+}
+
+.rsvp_picture {
+    background-image: url("topa_hands.jpg");
+    background-position: center;
+}
+
+.travel_accommodations_picture {
+    background-image: url("topa_plane.jpg");
+    background-position: center;
+}
+
+.schedule_picture {
+    background-image: url("topa_back.jpg");
+    background-position: center;
+}
+
+.things_to_do_picture {
+    background-image: url("topa_back_hug_look.jpg");
+    background-position: center;
+}
+
+.extras_picture {
+    background-image: url("topa_hug_look.jpg");
+    background-position: center;
+}
+
+.faq_picture {
+    background-image: url("topa_twirl.jpg");
+    background-position: center;
+}
+
+.parallax {
+    min-height: 800px;
+    position: relative;
+    background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
 
 .small_font {
